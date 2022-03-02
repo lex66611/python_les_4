@@ -4,3 +4,4 @@ print(my_list)
 new_list = [el for i, el in enumerate(my_list) if i > 0 and my_list[i] > my_list[i - 1]]
 
 print(new_list)
+# завершено
