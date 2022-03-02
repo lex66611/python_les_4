@@ -22,3 +22,4 @@ for el in cycle(cycling_list):
 
     if iteration_count >= max_iterations:
         break
+# завершено
